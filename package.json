@@ -1,0 +1,11 @@
+{
+  "name": "wifi-cc3100",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "Linus Unnebäck <linus@folkdatorn.se>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/LinusU/wifi-cc3100.git"
+  }
+}
